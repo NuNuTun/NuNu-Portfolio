@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Expertise",
+    "section": "",
+    "text": "Programming Languages\n    \n      C#\n      SQL\n      Python\n      HTML\n      CSS\n      JavaScript\n    \n  \n\n  \n     Tools & Frameworks\n    \n      .NET\n      AngularJS\n      Tableau\n      Power BI\n      Git/GitHub\n      Docker\n    \n  \n\n  \n     Project & Process\n    \n      Agile / Scrum\n      Waterfall\n      Business Analysis\n      System Design\n      Process Optimization\n    \n  \n\n  \n     Certifications & Soft Skills\n    \n      PMP® Certified\n      MBA Candidate\n      Team Leadership\n      Client Communication\n      Strategic Thinking"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n\n\n\n YouTube Performance Dashboard\n\n\nInteractive Tableau dashboard analyzing views, subscribers, and trends.\n\n  View Project \n\n\n\n PlayStation Game Sales\n\n\nExplores PlayStation game sales by genre, publisher, and year in Tableau.\n\n  View Project \n\n\n\n GitHub Data Analyst Portfolio\n\n\nPython, EDA, and dashboard prototypes from public datasets.\n\n  View Repo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nu Nu Tun",
+    "section": "",
+    "text": "Welcome!\n      \n        I'm Nu Nu Tun — a PMP® certified Senior System Analyst with over 10 years of experience developing enterprise systems across finance, property, and semiconductor sectors.\n      \n      \n        Currently pursuing my MBA at University Canada West, I'm passionate about technology-driven transformation and creating practical solutions that help businesses grow.\n      \n      \n         Download Resume"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s connect — I’m open to collaboration, networking, and new opportunities. \n📧 Email: nnplust@gmail.com  🔗 LinkedIn: linkedin.com/in/nunutun\n\n\n  Download Resume"
+  },
+  {
+    "objectID": "index11.html",
+    "href": "index11.html",
+    "title": "Nu Nu Tun",
+    "section": "",
+    "text": "&lt;div class=\"profile-image\" style=\"flex: 1 1 220px; text-align: center;\"&gt;\n  &lt;img src=\"nu_nu_tun.jpg\" alt=\"Nu Nu Tun\" style=\"border-radius: 50%; width: 200px; height: 200px; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.5);\"&gt;\n&lt;/div&gt;\n\n&lt;div class=\"profile-content\" style=\"flex: 2 1 400px; max-width: 600px;\"&gt;\n  &lt;h2&gt;Welcome!&lt;/h2&gt;\n  &lt;p&gt;\n    I'm Nu Nu Tun — a PMP® certified Senior System Analyst with over 10 years of experience developing enterprise systems across finance, property, and semiconductor sectors.\n  &lt;/p&gt;\n  &lt;p&gt;\n    Currently pursuing my MBA at University Canada West, I'm passionate about technology-driven transformation and creating practical solutions that help businesses grow.\n  &lt;/p&gt;\n  &lt;a href=\"NUNU_Resume.pdf\" class=\"btn\" target=\"_blank\"&gt;\n    &lt;i class=\"fas fa-download\"&gt;&lt;/i&gt; Download Resume\n  &lt;/a&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "PMP® certified Senior System Analyst with over 10 years of experience in designing and developing enterprise systems across finance, property, and semiconductor industries. Currently pursuing an MBA at University Canada West, with a passion for strategic technology solutions and digital transformation.\n\n\n\n\nSenior Software Engineer\nAlphawave Technology, Singapore (May 2022 – Mar 2024)\n- Migrated legacy systems to modern C#, MSSQL, AngularJS stack\n- Led deployment and user training for Property Accounting System\n- Delegated tasks and mentored junior developers\n- Provided ongoing customer support and logged resolutions\nSenior Analyst Programmer\nAspial Corporation, Singapore (Jul 2020 – May 2022)\n- Migrated internal Inventory Management System\n- Participated in design and requirement gathering with international vendors\n- Ensured user satisfaction through smooth deployment\nSenior System Analyst\nJapan Research Institute, Singapore (Jul 2016 – Jul 2020)\n- Delivered KYC systems for SMBC Bank across APAC\n- Built web apps with .NET C#, MSSQL, JavaScript\n- Led SIT and regression testing coordination\n- Managed release documentation and stakeholder expectations\nSenior Analyst\nWD Media Singapore (Mar 2013 – Jul 2016)\n- Implemented dashboards with .NET C#, Silverlight, and Telerik\n- Built systems supporting 24/7 factory operations\n- Managed project timelines and transitioned from vendor to internal role\nProgrammer\nASE Singapore (Apr 2011 – Aug 2012)\n- Developed B2B applications for semiconductor data delivery\n- Improved existing systems for better performance and maintainability\n\n\n\n\n\nMBA (In Progress) – University Canada West, Vancouver BC\n\nMaster of Technology in Knowledge Engineering – National University of Singapore (2014)\n\nPostgraduate Diploma in System Analysis – National University of Singapore (2011)\n\nBachelor of Computer Science – University of Computer Studies, Yangon (2005)\n\n\n\n\n\n\nPMP® Certified – Project Management Institute (2020–2026)\n\n\n\n\n\n\nProgramming: C#, .NET, JavaScript, HTML/CSS, SQL\n\nDatabases: SQL Server, MSSQL\n\nTools: AngularJS, Telerik, Tableau, Git, Power BI\n\nOther: Requirements Gathering, SDLC, System Design, Project Management"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "",
+    "text": "PMP® certified Senior System Analyst with over 10 years of experience in designing and developing enterprise systems across finance, property, and semiconductor industries. Currently pursuing an MBA at University Canada West, with a passion for strategic technology solutions and digital transformation."
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Senior Software Engineer\nAlphawave Technology, Singapore (May 2022 – Mar 2024)\n- Migrated legacy systems to modern C#, MSSQL, AngularJS stack\n- Led deployment and user training for Property Accounting System\n- Delegated tasks and mentored junior developers\n- Provided ongoing customer support and logged resolutions\nSenior Analyst Programmer\nAspial Corporation, Singapore (Jul 2020 – May 2022)\n- Migrated internal Inventory Management System\n- Participated in design and requirement gathering with international vendors\n- Ensured user satisfaction through smooth deployment\nSenior System Analyst\nJapan Research Institute, Singapore (Jul 2016 – Jul 2020)\n- Delivered KYC systems for SMBC Bank across APAC\n- Built web apps with .NET C#, MSSQL, JavaScript\n- Led SIT and regression testing coordination\n- Managed release documentation and stakeholder expectations\nSenior Analyst\nWD Media Singapore (Mar 2013 – Jul 2016)\n- Implemented dashboards with .NET C#, Silverlight, and Telerik\n- Built systems supporting 24/7 factory operations\n- Managed project timelines and transitioned from vendor to internal role\nProgrammer\nASE Singapore (Apr 2011 – Aug 2012)\n- Developed B2B applications for semiconductor data delivery\n- Improved existing systems for better performance and maintainability"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA (In Progress) – University Canada West, Vancouver BC\n\nMaster of Technology in Knowledge Engineering – National University of Singapore (2014)\n\nPostgraduate Diploma in System Analysis – National University of Singapore (2011)\n\nBachelor of Computer Science – University of Computer Studies, Yangon (2005)"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "PMP® Certified – Project Management Institute (2020–2026)"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Programming: C#, .NET, JavaScript, HTML/CSS, SQL\n\nDatabases: SQL Server, MSSQL\n\nTools: AngularJS, Telerik, Tableau, Git, Power BI\n\nOther: Requirements Gathering, SDLC, System Design, Project Management"
+  }
+]
