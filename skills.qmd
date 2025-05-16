@@ -1,0 +1,59 @@
+---
+title: "Skills & Expertise"
+format:
+  html:
+    allow-html: true
+---
+
+```{=html}
+
+<div class="skills-section">
+
+  <div class="skills-category">
+    <h3><i class="fas fa-code"></i> Programming Languages</h3>
+    <div class="skill-badges">
+      <span class="badge">C#</span>
+      <span class="badge">SQL</span>
+      <span class="badge">Python</span>
+      <span class="badge">HTML</span>
+      <span class="badge">CSS</span>
+      <span class="badge">JavaScript</span>
+    </div>
+  </div>
+
+  <div class="skills-category">
+    <h3><i class="fas fa-cogs"></i> Tools & Frameworks</h3>
+    <div class="skill-badges">
+      <span class="badge">.NET</span>
+      <span class="badge">AngularJS</span>
+      <span class="badge">Tableau</span>
+      <span class="badge">Power BI</span>
+      <span class="badge">Git/GitHub</span>
+      <span class="badge">Docker</span>
+    </div>
+  </div>
+
+  <div class="skills-category">
+    <h3><i class="fas fa-project-diagram"></i> Project & Process</h3>
+    <div class="skill-badges">
+      <span class="badge">Agile / Scrum</span>
+      <span class="badge">Waterfall</span>
+      <span class="badge">Business Analysis</span>
+      <span class="badge">System Design</span>
+      <span class="badge">Process Optimization</span>
+    </div>
+  </div>
+
+  <div class="skills-category">
+    <h3><i class="fas fa-certificate"></i> Certifications & Soft Skills</h3>
+    <div class="skill-badges">
+      <span class="badge">PMP® Certified</span>
+      <span class="badge">MBA Candidate</span>
+      <span class="badge">Team Leadership</span>
+      <span class="badge">Client Communication</span>
+      <span class="badge">Strategic Thinking</span>
+    </div>
+  </div>
+
+</div>
+```

@@ -1,0 +1,30 @@
+---
+title: "Nu Nu Tun"
+format:
+  html:
+    allow-html: true
+---
+
+```{=html}
+<div class="project-card">
+  <div class="profile-container" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem;">
+
+    <div class="profile-image" style="flex: 1 1 220px; text-align: center;">
+      <img src="nu_nu_tun.jpg" alt="Nu Nu Tun" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
+    </div>
+
+    <div class="profile-content" style="flex: 2 1 400px; max-width: 600px;">
+      <h2>Welcome!</h2>
+      <p>
+        I'm Nu Nu Tun — a PMP® certified Senior System Analyst with over 10 years of experience developing enterprise systems across finance, property, and semiconductor sectors.
+      </p>
+      <p>
+        Currently pursuing my MBA at University Canada West, I'm passionate about technology-driven transformation and creating practical solutions that help businesses grow.
+      </p>
+      <a href="NUNU_Resume.pdf" class="btn" target="_blank">
+        <i class="fas fa-download"></i> Download Resume
+      </a>
+    </div>
+
+  </div>
+</div>

@@ -1,0 +1,30 @@
+# Projects
+
+<div class="project-grid">
+
+<div class="project-card">
+  <h3><i class="fas fa-chart-line"></i> YouTube Performance Dashboard</h3>
+  <p>Interactive Tableau dashboard analyzing views, subscribers, and trends.</p>
+  <a href="https://public.tableau.com/app/profile/nu.nu.tun/viz/Tableu_Youtube1/Overall" class="btn" target="_blank">
+    <i class="fas fa-external-link-alt"></i> View Project
+  </a>
+</div>
+
+<div class="project-card">
+  <h3><i class="fas fa-gamepad"></i> PlayStation Game Sales</h3>
+  <p>Explores PlayStation game sales by genre, publisher, and year in Tableau.</p>
+  <a href="https://public.tableau.com/app/profile/nu.nu.tun/viz/Assignment_Tableu_NuNuTun/PlayStation" class="btn" target="_blank">
+    <i class="fas fa-chart-bar"></i> View Project
+  </a>
+</div>
+
+<div class="project-card">
+  <h3><i class="fas fa-database"></i> GitHub Data Analyst Portfolio</h3>
+  <p>Python, EDA, and dashboard prototypes from public datasets.</p>
+  <a href="https://github.com/Nnplust/data-analyst-nunu" class="btn" target="_blank">
+    <i class="fab fa-github"></i> View Repo
+  </a>
+</div>
+
+</div>
+<div style="margin-bottom: 4rem;"></div>

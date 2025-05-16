@@ -1,0 +1,72 @@
+---
+title: "Resume"
+---
+
+<div class="project-card">
+
+# <i class="fas fa-user-tie"></i> Resume
+
+## <i class="fas fa-id-card"></i> Summary
+
+PMP® certified Senior System Analyst with over 10 years of experience in designing and developing enterprise systems across finance, property, and semiconductor industries. Currently pursuing an MBA at University Canada West, with a passion for strategic technology solutions and digital transformation.
+
+---
+
+## <i class="fas fa-briefcase"></i> Professional Experience
+
+**Senior Software Engineer**  
+<em>Alphawave Technology, Singapore (May 2022 – Mar 2024)</em>  
+- Migrated legacy systems to modern C#, MSSQL, AngularJS stack  
+- Led deployment and user training for Property Accounting System  
+- Delegated tasks and mentored junior developers  
+- Provided ongoing customer support and logged resolutions
+
+**Senior Analyst Programmer**  
+<em>Aspial Corporation, Singapore (Jul 2020 – May 2022)</em>  
+- Migrated internal Inventory Management System  
+- Participated in design and requirement gathering with international vendors  
+- Ensured user satisfaction through smooth deployment
+
+**Senior System Analyst**  
+<em>Japan Research Institute, Singapore (Jul 2016 – Jul 2020)</em>  
+- Delivered KYC systems for SMBC Bank across APAC  
+- Built web apps with .NET C#, MSSQL, JavaScript  
+- Led SIT and regression testing coordination  
+- Managed release documentation and stakeholder expectations
+
+**Senior Analyst**  
+<em>WD Media Singapore (Mar 2013 – Jul 2016)</em>  
+- Implemented dashboards with .NET C#, Silverlight, and Telerik  
+- Built systems supporting 24/7 factory operations  
+- Managed project timelines and transitioned from vendor to internal role
+
+**Programmer**  
+<em>ASE Singapore (Apr 2011 – Aug 2012)</em>  
+- Developed B2B applications for semiconductor data delivery  
+- Improved existing systems for better performance and maintainability
+
+---
+
+## <i class="fas fa-graduation-cap"></i> Education
+
+- <strong>MBA (In Progress)</strong> – University Canada West, Vancouver BC  
+- <strong>Master of Technology in Knowledge Engineering</strong> – National University of Singapore (2014)  
+- <strong>Postgraduate Diploma in System Analysis</strong> – National University of Singapore (2011)  
+- <strong>Bachelor of Computer Science</strong> – University of Computer Studies, Yangon (2005)
+
+---
+
+## <i class="fas fa-certificate"></i> Certifications
+
+- PMP® Certified – Project Management Institute (2020–2026)
+
+---
+
+## <i class="fas fa-tools"></i> Skills
+
+- <strong>Programming</strong>: C#, .NET, JavaScript, HTML/CSS, SQL  
+- <strong>Databases</strong>: SQL Server, MSSQL  
+- <strong>Tools</strong>: AngularJS, Telerik, Tableau, Git, Power BI  
+- <strong>Other</strong>: Requirements Gathering, SDLC, System Design, Project Management
+
+</div>
